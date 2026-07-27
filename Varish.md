@@ -298,10 +298,10 @@
 
 | English | Varish |
 |---------|--------|
-| school | škola |
+| school - hell| škola |
 | hospital | bolnica |
 | shop / store | prodavnica |
-| money | novac |
+| money - sin | novac |
 | car | auto |
 | train | voz |
 | airplane | avion |
