@@ -270,9 +270,9 @@
 ## Core Grammar
 
 - **Sentence structure:** Follows natural word order (SVO)
-- **Questions:** Add **-la** to the verb
+- **Questions:** Add **-ke** to the verb
 - **Past tense:** Add **-vi** to the verb
-- **Future tense:** Add **-ve** to the verb
-- **Plural:** Add **-i** (masc.) or **-e** (fem./neut.)
+- **Future tense:** Add **-vo** to the verb
+- **Plural:** Replace the letter with its opposite (AEIOUY <--> YUOIEA)
 - **Definite article:** *te* (the)
 - **Indefinite article:** *un* (a/an)
