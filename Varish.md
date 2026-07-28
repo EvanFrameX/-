@@ -203,7 +203,6 @@
 | Tedimpir | German Empire |
 | Tritedimpir | Third Reich |
 | Tritedimpirva | Nazism |
-| Greeez | Greek (language) |
 | Ghaia | Earth (mythological name) |
 
 ---
