@@ -1,137 +1,210 @@
 # Varish Dictionary
 
-## Essential Wording
-
-| English | Varish |
-|---------|--------|
-| Affirmation | Da |
-| Negation | Nje |
-| Greeting | Zdravo |
-
----
+## Core Grammar Particles
+| Word | Meaning |
+|---|---|
+| te | the (definite article) |
+| qe | that/which/who |
+| nje- | not (negation prefix) |
+| fa- | adjective/adverb former |
+| -ke | question suffix |
+| -vi | past tense suffix |
+| -vo | future tense suffix |
+| -uv | comparative/superlative suffix |
+| -rz | group of (collective plural) |
+| -piz | piece of |
+| -ez | language of |
+| -va | ideology of / thought of |
+| -impir | empire (also prefix: empire of) |
+| derv- | parent of |
+| vil- | quick(ly) (verbal prefix) |
 
 ## Pronouns
+| Word | Meaning |
+|---|---|
+| ja | I |
+| ti | you (singular) |
+| se | he/she/it |
+| ji | we |
+| le | you all |
+| ju | they |
 
-| English | Varish |
-|---------|--------|
-| I | ja |
-| you (sg.) | ti |
-| he | on |
-| she | ona |
-| it | to |
-| we | mi |
-| you (pl.) | vi |
-| they (m.) | oni |
-| they (f.) | one |
+## Possessive Adjectives
+| Word | Meaning |
+|---|---|
+| mij | my |
+| taj | your (singular) |
+| jer | his/her/its |
+| šij | our |
+| vij | your (plural) |
+| tij | their |
 
----
+## Numbers
+| Word | Meaning |
+|---|---|
+| ze | 0 |
+| un | 1 |
+| du | 2 |
+| tri | 3 |
+| quat | 4 |
+| cinc | 5 |
+| swar | 6 |
+| stika | 7 |
+| octa | 8 |
+| nuve | 9 |
+| dix | 10 |
 
-## Core Function Words
+## Prepositions
+| Word | Meaning |
+|---|---|
+| ejn | in/inside |
+| ave | on/on top of |
+| tav | to/towards |
+| vel | from |
+| kon | with |
 
-| English | Varish |
-|---------|--------|
-| the | te |
-| a/an | un |
-| and | i |
-| or | ili |
-| but | ma |
-| of | de |
-| in | en |
-| on | na |
-| to/towards | a |
-| from | od |
-| with | sa |
-| without | bez |
-| for | za |
-| this | esto |
-| that | to |
-| these | esti |
-| those | ti |
+## Verbs
+| Word | Meaning |
+|---|---|
+| zar | to be |
+| cravo | to chase |
+| mar | to eat |
+| ber | to drink |
+| uzar | to use |
+| inar | to walk |
+| vilinar | to run |
+| abir | to be able |
+| podar | to do |
+| furar | to rule/govern |
+| rallar | to obey |
 
----
+## Nouns – People & Society
+| Word | Meaning |
+|---|---|
+| cxeca | person |
+| cxecarz | the people (collective) |
+| fural | leader/ruler |
+| krieg | war |
+| paz | peace |
+| ralla | law |
+| abil | freedom |
+| podal | power |
+| vom | voice/vote |
+| mel | friend/ally |
+| njemel | enemy |
+| rax | love / money / sin |
+| raxva | capitalism / kleptocracy |
 
-## Key Verbs (Infinitive)
+## Nouns – Time
+| Word | Meaning |
+|---|---|
+| daj | day |
+| nij | night |
+| nav | now |
+| yav | yesterday |
+| rav | tomorrow |
+| undaj | morning (first day) |
+| tridaj | evening (third day) |
+| alvay | always |
+| njealvay | never |
 
-| English | Varish |
-|---------|--------|
-| to be | biti |
-| to have | imati |
-| to do | delati |
-| to make | kreirati |
-| to go | ici |
-| to come | doci |
-| to see | videti |
-| to say | reci |
-| to know | znati |
-| to want | hteti |
+## Nouns – Food & Drink
+| Word | Meaning |
+|---|---|
+| voda | water |
+| vulh | bread |
+| maht | meat |
+| frakt | fruit |
+| melk | milk |
+| ungry | hunger |
+| faungry | hungry |
+| tsij | thirst |
+| fartsij | thirsty |
 
----
+## Nouns – Emotions & States
+| Word | Meaning |
+|---|---|
+| vaŝ | happy |
+| naŝ | sad |
+| niagre | angry |
+| tiregr | tired |
+| falr | fear |
+| fafalr | afraid |
+| pern | pain |
+| enjpern | in pain |
+| trisk | sick/ill |
 
-## Verb Conjugation Suffixes
+## Nouns – Nature
+| Word | Meaning |
+|---|---|
+| śen | sun |
+| kon | moon |
+| šran | star / shuriken |
+| šri | sky |
+| vok | fire |
+| trivh | tree |
+| ghaiv | earth/soil (from Ghaia) |
+| ghaivpiz | territory (piece of earth) |
+| stak | stone/rock |
+| flur | wind / flow |
+| duflur | flow of wind |
 
-| Tense | Suffix |
-|-------|--------|
-| To ask (interrogative) | -la |
-| Past | -vi |
-| Future | -ve |
+## Nouns – Body
+| Word | Meaning |
+|---|---|
+| had | head |
+| irv | eye |
+| ark | ear |
+| mav | mouth |
+| uzal | hand (from uzar) |
+| inak | foot/leg (from inar) |
+| hret | heart |
+| blad | blood |
+| blev | bone |
+| skan | skin |
 
----
+## Nouns – Family
+| Word | Meaning |
+|---|---|
+| mav | mother |
+| dav | father |
+| cram | sibling |
+| klin | child (unisex) |
+| bav | partner/spouse |
+| dervmav | grandmother |
+| dervdav | grandfather |
 
-## Possessives
+## Nouns – Places & Things
+| Word | Meaning |
+|---|---|
+| caza | house |
+| gato | cat |
+| toph | mouse |
 
-| English | Masculine | Feminine |
-|---------|-----------|----------|
-| my | mij / mijo | mija |
-| your (sg.) | toj | toj |
-| his | egov | egav |
-| her | enov | enav |
-| its | egov | egav |
-| our | noš | naša |
-| your (pl.) | vaš | vaša |
-| their | niov | niav |
+## Adjectives
+| Word | Meaning |
+|---|---|
+| nešo | black |
+| bianco | white |
+| farza | strong |
+| vil | rapid/quick |
+| favil | rapidly/quickly |
 
----
-
-## Plural Rules
-
-| Gender | Rule |
-|--------|------|
-| Masculine | Add **-i** |
-| Feminine / Neuter | Add **-e** |
-
----
-
-## Pronunciation Rules
-
-| Letter | Sound |
-|--------|-------|
-| a, e, i, o, u | Pure vowels (ah, eh, ee, oh, oo) |
-| k | Hard "c" (like *comrade*) |
-| c | "ch" (like *church*) |
-| š | "sh" (like *ship*) |
-| ž | "zh" (like *measure*) |
-| j | "y" (like *yes*) |
-| g before i/e | Soft "j" (like *gym*) |
-| g before a/o/u | Hard "g" (like *go*) |
-| h | Silent (not pronounced) |
-| Rest | Pronounced as written |
-
----
-
-## Suffix Rules (Grammar)
-
-| English Suffix | Varish Suffix |
-|----------------|---------------|
-| -sion | -zija |
-| -ty | -tet |
-| -ism | -izmo |
-| -ist | -išat |
-| -ology | -olozia |
-| -phy | -via |
-| -ic | -iša |
-| -ize / -ise | -išae |
-| -ance | -anza |
-| -ure | -urja |
+## Proper Nouns & National Terms
+| Word | Meaning |
+|---|---|
+| Varn | Byzan |
+| Varnez | Varish language (language of Byzan) |
+| Varnimpir | Byzantine Empire |
+| Italiez | Italian (language) |
+| Italimpir | Italian Empire |
+| Italimpirva | Fascism |
+| Tedez | German (language) |
+| Tedimpir | German Empire |
+| Tritedimpir | Third Reich |
+| Tritedimpirva | Nazism |
+| Greeez | Greek (language) |
+| Ghaia | Earth (mythological name) |
 
 ---
 
@@ -178,34 +251,6 @@
 
 ## Basic Nouns
 
-### People & Relationships
-
-| English | Varish | Note |
-|---------|--------|------|
-| person | čovek | -o → male, -a → female |
-| child | dete | |
-| dad | otac | |
-| mom | mati | |
-| brother | brat | |
-| sister | sestra | |
-| friend | prijatelj | |
-| stranger | neznac | |
-| group | grupa | |
-
-### Body Parts
-
-| English | Varish |
-|---------|--------|
-| head | glava |
-| eye | oko |
-| ear | uho |
-| nose | nos |
-| mouth | usta |
-| arm / hand | ruka |
-| leg / foot | noga |
-| heart | srce |
-| blood | krv |
-
 ### House & Home
 
 | English | Varish |
@@ -221,101 +266,8 @@
 | village | selo |
 | street | ulica |
 
-### Food & Drink
 
-| English | Varish |
-|---------|--------|
-| food | hrana |
-| water | voda |
-| milk | mleko |
-| bread | hleb |
-| meat | meso |
-| fruit | voće |
-| vegetables | povrće |
-| egg | jaje |
-| cheese | sir |
-| wine | vino |
-| beer | pivo |
-| tea | čaj |
-| coffee | kafa |
-
-### Nature
-
-| English | Varish |
-|---------|--------|
-| sky | nebo |
-| earth / ground | zemlja |
-| sea | more |
-| river | reka |
-| mountain | planina |
-| forest | šuma |
-| tree | drvo |
-| flower | cvet |
-| sun | sunce |
-| moon | mesec |
-| star | zvezda |
-| rain | kiša |
-| snow | sneg |
-| wind | vetar |
-| fire | vatra |
-
-### Time
-
-| English | Varish |
-|---------|--------|
-| time / weather | vreme |
-| day | dan |
-| night | noć |
-| morning | jutro |
-| evening | veče |
-| hour / clock | sat |
-| minute | minuta |
-| week | nedelja |
-| month | mesec |
-| year | godina |
-
-### Abstract Concepts
-
-| English | Varish |
-|---------|--------|
-| death | smrt |
-| hate | mrznja |
-| happiness / like | sreća |
-| sadness | tuga |
-| fear / scare | strah |
-| thought | misao |
-| word | rec |
-| language / tongue | jezik |
-| path / way | put |
-| question | pitanje |
-| answer | odgovor |
-| problem | problem |
-| solution | rešenje |
-| thing | stvar |
-| work / job | posao |
-
-### Places & Objects
-
-| English | Varish |
-|---------|--------|
-| school - hell| škola |
-| hospital | bolnica |
-| shop / store | prodavnica |
-| money - sin | novac |
-| car | auto |
-| train | voz |
-| airplane | avion |
-| ship | brod |
-| book | knjiga |
-| letter / writing | pismo |
-| picture / image | slika |
-| sound | zvuk |
-| color | boja |
-| number | broj |
-
----
-
-## Quick Reference: Core Grammar
+## Core Grammar
 
 - **Sentence structure:** Follows natural word order (SVO)
 - **Questions:** Add **-la** to the verb
