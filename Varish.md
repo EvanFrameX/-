@@ -254,11 +254,11 @@
 
 | English | Varish |
 |---------|--------|
-| house / home | kuća |
-| room | soba |
+| house / home | caza |
+| room | plaz |
 | door | vrata |
 | window | prozor |
-| table | sto |
+| table | plez |
 | chair | stolica |
 | bed | krevet |
 | city / town | grad |
