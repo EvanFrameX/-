@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://d0sknq1ely6sy"]
+
+[ext_resource type="Script" uid="uid://ciow7hlngw46x" path="res://scripts/bullet.gd" id="1_mkf8s"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_mkf8s"]
+size = Vector2(40, 18)
+
+[sub_resource type="SceneReplicationConfig" id="SceneReplicationConfig_mkf8s"]
+properties/0/path = NodePath(".:position")
+properties/0/spawn = true
+properties/0/replication_mode = 1
+
+[node name="Bullet" type="CharacterBody2D" unique_id=581721776]
+script = ExtResource("1_mkf8s")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=996529105]
+offset_left = -20.0
+offset_top = -9.0
+offset_right = 20.0
+offset_bottom = 9.0
+
+[node name="Area2D" type="Area2D" parent="." unique_id=205050447]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=1189740277]
+shape = SubResource("RectangleShape2D_mkf8s")
+
+[node name="MultiplayerSynchronizer" type="MultiplayerSynchronizer" parent="." unique_id=2062640541]
+replication_config = SubResource("SceneReplicationConfig_mkf8s")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

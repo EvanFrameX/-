@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://j1wnc51s4qik"
+path="res://.godot/imported/lobby.mp3-b86a59aab3e8b7e2de402ac32a880df8.mp3str"
+
+[deps]
+
+source_file="res://CubeHunt Soundtrack/lobby.mp3"
+dest_files=["res://.godot/imported/lobby.mp3-b86a59aab3e8b7e2de402ac32a880df8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

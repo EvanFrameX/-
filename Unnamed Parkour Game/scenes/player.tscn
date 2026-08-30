@@ -1,0 +1,57 @@
+[gd_scene format=3 uid="uid://hw0cr2w72ay7"]
+
+[ext_resource type="Script" uid="uid://c3xtm5rucekng" path="res://scripts/player.gd" id="1_onrkg"]
+[ext_resource type="Script" uid="uid://s1uti8sqtcn3" path="res://scripts/gun.gd" id="2_g2els"]
+[ext_resource type="PackedScene" uid="uid://d0sknq1ely6sy" path="res://scenes/bullet.tscn" id="3_qhqgy"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_80nbo"]
+size = Vector2(40, 40)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_e2o6t"]
+size = Vector2(1, 40)
+
+[sub_resource type="SceneReplicationConfig" id="SceneReplicationConfig_3vyb7"]
+properties/0/path = NodePath(".:position")
+properties/0/spawn = true
+properties/0/replication_mode = 1
+properties/1/path = NodePath(".:modulate")
+properties/1/spawn = true
+properties/1/replication_mode = 1
+properties/2/path = NodePath(".:self_modulate")
+properties/2/spawn = true
+properties/2/replication_mode = 1
+properties/3/path = NodePath("Gun:rotation")
+properties/3/spawn = true
+properties/3/replication_mode = 1
+
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1542923693]
+script = ExtResource("1_onrkg")
+JUMP_VELOCITY = -415
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=839701863]
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=59902231]
+shape = SubResource("RectangleShape2D_80nbo")
+
+[node name="Area2D" type="Area2D" parent="." unique_id=846229721]
+
+[node name="CollisionShape2D1" type="CollisionShape2D" parent="Area2D" unique_id=868762134]
+position = Vector2(20.5, 0)
+shape = SubResource("RectangleShape2D_e2o6t")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Area2D" unique_id=889767452]
+position = Vector2(-20.5, 0)
+shape = SubResource("RectangleShape2D_e2o6t")
+
+[node name="MultiplayerSynchronizer" type="MultiplayerSynchronizer" parent="." unique_id=276903916]
+replication_config = SubResource("SceneReplicationConfig_3vyb7")
+
+[node name="Gun" type="Node2D" parent="." unique_id=615564181]
+script = ExtResource("2_g2els")
+bullet = ExtResource("3_qhqgy")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
